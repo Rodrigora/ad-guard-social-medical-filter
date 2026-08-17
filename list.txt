@@ -9,7 +9,12 @@
 ||www.instagram.com^
 ||youtube.com^
 ||www.youtube.com^
+||m.youtube.com^
 ||youtu.be^
+||youtubei.googleapis.com^
+||youtube-nocookie.com^
+||ytimg.com^
+||googlevideo.com^
 ||facebook.com^
 ||www.facebook.com^
 ||tiktok.com^
