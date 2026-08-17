@@ -1,5 +1,5 @@
 ! Title: Social Media Filter
-! Description: Blocks X (Twitter) and Instagram at the DNS level
+! Description: Blocks X (Twitter), Instagram, YouTube, and Facebook at the DNS level
 ! Homepage: https://github.com/Rodrigora/ad-guard-social-medical-filter
 
 ||x.com^
@@ -7,3 +7,8 @@
 ||www.twitter.com^
 ||instagram.com^
 ||www.instagram.com^
+||youtube.com^
+||www.youtube.com^
+||youtu.be^
+||facebook.com^
+||www.facebook.com^
